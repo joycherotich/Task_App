@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# 📝 Task Manager Application
+#  Task Manager Application
 
 This is a simple full-stack Task Manager app built with **React** (frontend) and **Ruby on Rails** (backend). It allows users to create, view, and delete tasks.
 
@@ -37,7 +37,7 @@ Make sure you have the following installed:
 
 ###  1. Clone the Repository
 
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/joycherotich/Task_App.git
 cd task
 
 ##  Setup Instructions
