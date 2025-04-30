@@ -38,6 +38,7 @@ Make sure you have the following installed:
 ###  1. Clone the Repository
 
 git clone https://github.com/joycherotich/Task_App.git
+
 cd task
 
 ##  Setup Instructions
